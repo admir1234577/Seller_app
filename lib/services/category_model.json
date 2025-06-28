@@ -1,0 +1,85 @@
+{
+  "categories": [
+    {
+      "name": "Ženska odjeća",
+      "subcategory": [
+        "Vjenčanja & Događaji",
+        "Topići & Kompleti",
+        "Satovi"
+      ]
+    },
+    {
+      "name": "Muška odjeća",
+      "subcategory":
+      [
+        "Outwear & Jakne",
+        "Formalno",
+        "Aksesoari"
+      ]
+    },
+    {
+      "name": "Računari i aksesoari",
+      "subcategory":
+      [
+        "Laptopovi",
+        "Gaming PC",
+        "Zvanična oprema"
+      ]
+    },
+    {
+      "name": "Vozila",
+      "subcategory":
+      [
+        "Automobili",
+        "Motori"
+
+      ]
+    },
+    {
+      "name": "Djeca & Igračke",
+      "subcategory":
+      [
+        "Obuća i torbe",
+        "Odjeća za bebe",
+        "Igračke za djevojčice"
+      ]
+    },
+    {
+      "name": "Sport",
+      "subcategory":
+      [
+        "Bicikla",
+        "Sneakers",
+        "Plivanje"
+      ]
+    },
+    {
+      "name": "Nakit",
+      "subcategory":
+      [
+        "Ogrlice",
+        "Zlato",
+        "Minđuše"
+      ]
+    },
+    {
+      "name": "Telefoni",
+      "subcategory":
+      [
+        "Smartfoni",
+        "Tableti",
+        "Aksesoari"
+      ]
+    },
+    {
+      "name": "Namještaj",
+      "subcategory":
+      [
+        "Sofe",
+        "Kreveti",
+        "Kućni Tekstil"
+      ]
+    }
+
+  ]
+}
